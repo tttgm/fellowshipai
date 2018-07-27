@@ -2,6 +2,11 @@
 
 This project seeks to create a book recommendation model from the [Book-Crossing](http://www.bookcrossing.com/) dataset ([available here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)).
 
+## Resources
+Building a recommendation system: [full workflow](https://towardsdatascience.com/building-a-recommendation-system-for-fragrance-5b00de3829da) - github repo [here](https://github.com/kellypeng/scentmate_rec).
+
+Implementing recommender sys [from scratch in Python](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html).
+
 ---------------------------------------------------
 ## Dataset Format
 The Book-Crossing dataset is comprised of 3 tables:
