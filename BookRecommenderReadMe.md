@@ -7,6 +7,10 @@ Building a recommendation system: [full workflow](https://towardsdatascience.com
 
 Implementing recommender sys [from scratch in Python](https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html).
 
+Recommender system library: ```suprise``` (see [here](http://surprise.readthedocs.io/en/stable/getting_started.html#basic-usage))
+
+Intro to recommender systems using [collaborative filtering](http://blog.ethanrosenthal.com/2015/11/02/intro-to-collaborative-filtering/).
+
 ---------------------------------------------------
 ## Dataset Format
 The Book-Crossing dataset is comprised of 3 tables:
